@@ -1,9 +1,9 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-  	<a href="#-Project">Project</a>&nbsp;&nbsp; | &nbsp;&nbsp;
-	  <a href="#-Tools">Tools</a>&nbsp;&nbsp; | &nbsp;&nbsp;
-  	<a href="#-Layout">Layout</a>
+  	<a href="#💻-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+	  <a href="#wrench-tools">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  	<a href="#🔖-layout">Layout</a>
 </p>
 
 <p align="center">
@@ -15,7 +15,6 @@
 <p align="center">
   <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
 </p>
-
 <br>
 
 ## 💻 Project
@@ -33,16 +32,19 @@ This project has been developed using the following:
 - JavaScript
 - Git/Github
 - Figma
-
-<br>
+  <br>
 
 ## 🔖 Layout
 
-You can get the layout of the original project <a href="https://www.figma.com/community/file/1187422022288947321" target="_blank" > HERE.</a> 
+You can get the layout of the original project <a href="https://www.figma.com/community/file/1187422022288947321" target="_blank" > HERE.</a>
 You need to set up a <a href="https://figma.com" target="_blank"> Figma </a> account to access it.
 
-> Projeto Discover is a a free and exclusive program offered by <a href="https://www.rocketseat.com.br" target="_blank">Rocketseat</a> . You can do it yourself by completing their fun and well structured program in video format <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito" target="_blank">here</a>.
+<br>
+
+Projeto Discover is a a free and exclusive program offered by <a href="https://www.rocketseat.com.br" target="_blank">Rocketseat</a> . You can do it yourself by completing their fun and well structured program in video format <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito" target="_blank">here</a>.
 
 ---
 
-Made with ♥ by Rocketseat :wave: [Join our community on Discord](https://discord.gg/rocketseat)!
+<p align="center"> 
+Made with ♥ by Rocketseat <br>
+:wave: Join our community on <a href="https://discord.gg/rocketseat">Discord</a>!</p>
