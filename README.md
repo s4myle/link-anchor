@@ -1,9 +1,9 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-  	<a href="#💻-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  	<a href="#rocket-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 	  <a href="#wrench-tools">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  	<a href="#🔖-layout">Layout</a>
+  	<a href="#bookmark-layout">Layout</a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 <br>
 
-## 💻 Project
+## :rocket: Project
 
 DevLinks is a link aggregator. It allows you to display multiple links on your social media bio. You can use this application to showcase your online presence and connect with your audience on different platforms.
 
@@ -34,7 +34,7 @@ This project has been developed using the following:
 - Figma
   <br>
 
-## 🔖 Layout
+## :bookmark: Layout
 
 You can get the layout of the original project <a href="https://www.figma.com/community/file/1187422022288947321" target="_blank" > HERE.</a>
 You need to set up a <a href="https://figma.com" target="_blank"> Figma </a> account to access it.
