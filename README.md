@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="Project DevLink cover" src=".github/preview.jpg" width="100%">
 </p>
 <br>
 
@@ -28,9 +28,9 @@ Access my project <a href="https://samylecarvalho.github.io/link-anchor" target=
 
 This project has been developed using the following:
 
-- HTML e CSS
+- HTML and CSS
 - JavaScript
-- Git/Github
+- Git and Github
 - Figma
   <br>
 
@@ -41,7 +41,9 @@ You need to set up a <a href="https://figma.com" target="_blank"> Figma </a> acc
 
 <br>
 
-Projeto Discover is a a free and exclusive program offered by <a href="https://www.rocketseat.com.br" target="_blank">Rocketseat</a> . You can do it yourself by completing their fun and well structured program in video format <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito" target="_blank">here</a>.
+Projeto Discover is a free and exclusive program offered by <a href="https://www.rocketseat.com.br" target="_blank">Rocketseat</a> . You can do it yourself by completing their fun and well structured program in video format <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito" target="_blank">here</a>.
+
+<br>
 
 ---
 
